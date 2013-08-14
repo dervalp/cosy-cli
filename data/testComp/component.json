@@ -1,0 +1,8 @@
+{
+    "name": "testComp",
+    "category": "ui",
+    "scripts": "index.js",
+    "styles": "style.css",
+    "templates": "template.tmpl",
+    "version": "0.1.0"
+}
