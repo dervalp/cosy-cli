@@ -40,6 +40,8 @@ describe( "Given a package", function( ) {
             instance.load( function(res) {
                 var value = instance.generate();
                 value.should.exists;
+                value.name.should.exists;
+                value.buffer.should.exists;
                 done();
             });
         } );

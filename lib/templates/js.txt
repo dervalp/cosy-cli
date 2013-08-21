@@ -1,0 +1,6 @@
+_c.component({
+    type: "{{name}}",
+    initialize: function(initiaData, app, el) {
+        //type your code here
+    }
+});

@@ -1,0 +1,19 @@
+{
+  "name": "cosy-cli",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "gitHead": "b3513b5458c6be3d25a6fc9f304f817ff0a60dd0",
+  "dependencies": {
+    "handlebars": "~1.0.12"
+  }
+}
